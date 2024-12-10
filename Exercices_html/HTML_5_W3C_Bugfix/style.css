@@ -1,0 +1,37 @@
+main {
+ padding: 16px;
+}
+
+
+.nav-top {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-top ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    background-color: #cdcdcd;
+    padding: 10px;
+}
+
+.nav-top ul li {
+    margin-right: 10px;
+}
+
+article {
+    border-radius: 5px;
+    padding: 10px;
+    margin-top:8px;
+}
+
+#carte-cafes {
+    background-color:#8484c1;
+    font-size:1.2rem;
+}
+
+#carte-dessert{
+    background-color:#8484c1;
+    font-size:1.2rem;
+}
